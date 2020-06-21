@@ -1,0 +1,13 @@
+name: openssl_sample
+version: 0.1.0
+
+authors:
+  - Geo Hope george@1w1g.com
+
+targets:
+  openssl_sample:
+    main: src/openssl_sample.cr
+
+crystal: 0.35.1
+
+license: MIT
